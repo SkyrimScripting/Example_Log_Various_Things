@@ -13,8 +13,7 @@
 This example is used in the Skyrim Scripting YouTube series:
 - https://youtube.com/SkyrimScripting
 
-It simply prints to _both_ the Papyrus log _and_ an SKSE `.log` file
-whenever the player gets a new item or loses an existing items.
+It prints to _both_ the Papyrus log _and_ a SKSE `.log` file when the player gets or loses an item.
 
 Used to demonstrate **Logging** and **Log Viewers**.
 
