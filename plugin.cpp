@@ -10,4 +10,10 @@ EventHandlers {
             logger::info("Player lost {}", baseForm->GetName());
         }
     });
+
+    On<RE::TESActivateEvent>([](const RE::TESActivateEvent* event) {
+        auto activated = event->objectActivated->GetBaseObject()->GetName();
+        auto activator = event->actionRef->GetBaseObject()->GetName();
+        logger::info("{} activated {}", activator, activated);
+    });
 }
