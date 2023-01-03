@@ -1,10 +1,10 @@
-# Example: Log Container Changes
+# Example: Log Various Things
 
 <a 
-    title="Download Example Log Container Changes Mod - Install in your Mod Manager"
-    href="https://github.com/SkyrimScripting/Example_Log_Container_Changes/releases/download/v1/Example_LogContainerChanges.7z">
+    title="Download Example Log Various Things Mod - Install in your Mod Manager"
+    href="https://github.com/SkyrimScripting/Example_Log_Container_Changes/releases/latest/download/Example_Log_Various_Things.7z">
     <img
-        alt="Download Example Log Container Changes Mo - Install in your Mod Manager"
+        alt="Download Example Log Various Things Mo - Install in your Mod Manager"
         src="https://raw.githubusercontent.com/SkyrimScripting/Download/main/DownloadButton_256.png"
         width="100"
         />
@@ -13,8 +13,8 @@
 This example is used in the Skyrim Scripting YouTube series:
 - https://youtube.com/SkyrimScripting
 
-It prints to _both_ the Papyrus log _and_ a SKSE `.log` file when the player gets or loses an item.
+It prints to _both_ the Papyrus log _and_ a SKSE `.log` file
 
 Used to demonstrate **Logging** and **Log Viewers**.
 
-> Note: this bundles [`Bind`](https://github.com/SkyrimScripting/Bind) to easily add a Papyrus script (_without an .esp_)
+> Note: this bundles the [`{!BIND}`](https://github.com/SkyrimScripting/BIND) plugin to easily add Papyrus scripts (_without an .esp_)
