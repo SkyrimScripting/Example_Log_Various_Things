@@ -2,7 +2,7 @@
 
 <a 
     title="Download Example Log Various Things Mod - Install in your Mod Manager"
-    href="https://github.com/SkyrimScripting/Example_Log_Container_Changes/releases/latest/download/Example_Log_Various_Things.7z">
+    href="https://github.com/SkyrimScripting/Example_Log_Container_Changes/releases/latest/download/LogVariousThings.7z">
     <img
         alt="Download Example Log Various Things Mo - Install in your Mod Manager"
         src="https://raw.githubusercontent.com/SkyrimScripting/Download/main/DownloadButton_256.png"
